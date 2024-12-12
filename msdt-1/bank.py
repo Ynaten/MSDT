@@ -1,15 +1,19 @@
-import os, sys, math
-import random as r
-from time import *
-import numpy, pandas as pd
 import datetime
-import logging, json
-import requests, urllib
-import numpy as np, scipy
-import socket
-from collections import deque, Counter
 import itertools
+import json
+import logging
+import os
 import random
+import socket
+import sys
+import time
+import urllib
+
+import numpy as np
+import pandas as pd
+import requests
+import scipy
+from collections import Counter, deque
 
 class Transaction: 
     def __init__(self ,transactionType ,amount ,date=None): 
