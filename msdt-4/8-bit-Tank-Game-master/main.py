@@ -1,10 +1,19 @@
 import sys
+import logging
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 
+# Настройка логирования с записью в файл
+logging.basicConfig(level=logging.DEBUG, 
+                    format='%(asctime)s - %(levelname)s - %(message)s',
+                    handlers=[logging.FileHandler("game_log.txt", mode='w'), 
+                              logging.StreamHandler(sys.stdout)])
+
 
 class Main(QWidget):
+
+    
     def __init__(self):
         super().__init__()
         # Инициализация игрового цикла
@@ -50,6 +59,7 @@ class Main(QWidget):
         pixmap = QPixmap(frist)
         self.coords2.setPixmap(pixmap)
         self.coords2.move(296, 590)
+        logging.info(f"Tанк 1 создан. Позиция: ({296}, {590})")
 
         # Создание танка номер 2
         self.coords = QLabel(self)
@@ -58,6 +68,7 @@ class Main(QWidget):
         pixmap = QPixmap(frist)
         self.coords.setPixmap(pixmap)
         self.coords.move(296, 10)
+        logging.info(f"Tанк 2 создан. Позиция: ({296}, {10})")
 
         # Направление движения танка 1
         self.move = "W"
@@ -90,11 +101,14 @@ class Main(QWidget):
 
     def create_map(self):
         # Импорт карты из TXT
+        logging.info("Начинается загрузка карты из файла 'assets/map.txt'.")
         with open("assets/map.txt") as D:
             a = D.read()
             a = a.split("\n")
             for i in a:
                 self.map.append(i)
+        
+        logging.info("Карта успешно загружена из файла.")
         # Создание карты, обработка данных
         for i in range(10):
             for j in range(10):
@@ -107,6 +121,7 @@ class Main(QWidget):
                     self.bricks[-1].resize(64, 64)
                     self.bricks[-1].setPixmap(pixmap)
                     self.bricks[-1].move(j * 64, i * 64)
+                    logging.info(f"Добавлен кирпич на позицию ({j * 64}, {i * 64}).")
                 elif self.map[i][j] == "X":
                     frist = "assets/cant_lomatsa.png"
                     pixmap = QPixmap(frist)
@@ -114,6 +129,7 @@ class Main(QWidget):
                     self.cant[-1].resize(64, 64)
                     self.cant[-1].setPixmap(pixmap)
                     self.cant[-1].move(j * 64, i * 64)
+                    logging.info(f"Добавлена неразрушимая стена на позицию ({j * 64}, {i * 64}).")
                 elif self.map[i][j] == "Z":
                     frist = "assets/listva.png"
                     pixmap = QPixmap(frist)
@@ -121,10 +137,14 @@ class Main(QWidget):
                     self.listv[-1].resize(64, 64)
                     self.listv[-1].setPixmap(pixmap)
                     self.listv[-1].move(j * 64, i * 64)
+                    logging.info(f"Добавлены листья на позицию ({j * 64}, {i * 64}).")
+                
+        logging.info("Процесс создания карты завершен.")
 
     def keyPressEvent(self, event):
         # Получение информации о нажатой клавиши.
         # Выбор нужного направления
+        logging.debug(f"Key pressed: {event.key()}")
 
         if event.key() == Qt.Key_D:
             self.move = "D"
@@ -154,6 +174,7 @@ class Main(QWidget):
 
         # Информация о начале выпуска пуль
         if event.key() == Qt.Key_Space:
+                logging.debug("Firing bullet.")
                 frist = "assets/16x16bullet.png"
                 pixmap = QPixmap(frist)
                 self.bullets.append(QLabel(self))
@@ -214,6 +235,7 @@ class Main(QWidget):
 
     def move_bullet(self, a, b):
         # Функция о движении пуль.
+        logging.debug(f"Moving bullet from position ({a.x()}, {a.y()})")
         bullet = a
         life = b
         # Импортируется направление пули, его корды.
@@ -243,6 +265,7 @@ class Main(QWidget):
             bullet.move(bullet.x() + 5, bullet.y())
             a = self.probitie(bullet.x(), bullet.y())
         if a is not False:
+            logging.debug(f"Bullet hit at position ({bullet.x()}, {bullet.y()})")
             self.timer.stop()
             print("Конец игры! Победил", end="")
             if life[0] in "WASD":

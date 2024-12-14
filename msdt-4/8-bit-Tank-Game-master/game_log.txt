@@ -1,509 +1,348 @@
-2024-12-15 00:20:10,025 - INFO - Tанк 1 создан. Позиция: (296, 590)
-2024-12-15 00:20:10,026 - INFO - Tанк 2 создан. Позиция: (296, 10)
-2024-12-15 00:20:10,026 - INFO - Начинается загрузка карты из файла 'assets/map.txt'.
-2024-12-15 00:20:10,026 - INFO - Карта успешно загружена из файла.
-2024-12-15 00:20:10,026 - INFO - Добавлена неразрушимая стена на позицию (0, 0).
-2024-12-15 00:20:10,026 - INFO - Добавлена неразрушимая стена на позицию (64, 0).
-2024-12-15 00:20:10,027 - INFO - Добавлена неразрушимая стена на позицию (512, 0).
-2024-12-15 00:20:10,027 - INFO - Добавлена неразрушимая стена на позицию (576, 0).
-2024-12-15 00:20:10,027 - INFO - Добавлены листья на позицию (0, 64).
-2024-12-15 00:20:10,027 - INFO - Добавлена неразрушимая стена на позицию (192, 64).
-2024-12-15 00:20:10,027 - INFO - Добавлена неразрушимая стена на позицию (256, 64).
-2024-12-15 00:20:10,027 - INFO - Добавлена неразрушимая стена на позицию (320, 64).
-2024-12-15 00:20:10,027 - INFO - Добавлена неразрушимая стена на позицию (384, 64).
-2024-12-15 00:20:10,027 - INFO - Добавлены листья на позицию (576, 64).
-2024-12-15 00:20:10,027 - INFO - Добавлены листья на позицию (0, 128).
-2024-12-15 00:20:10,027 - INFO - Добавлены листья на позицию (576, 128).
-2024-12-15 00:20:10,028 - INFO - Добавлены листья на позицию (0, 192).
-2024-12-15 00:20:10,028 - INFO - Добавлена неразрушимая стена на позицию (128, 192).
-2024-12-15 00:20:10,028 - INFO - Добавлена неразрушимая стена на позицию (192, 192).
-2024-12-15 00:20:10,028 - INFO - Добавлен кирпич на позицию (256, 192).
-2024-12-15 00:20:10,028 - INFO - Добавлен кирпич на позицию (320, 192).
-2024-12-15 00:20:10,028 - INFO - Добавлена неразрушимая стена на позицию (384, 192).
-2024-12-15 00:20:10,028 - INFO - Добавлена неразрушимая стена на позицию (448, 192).
-2024-12-15 00:20:10,029 - INFO - Добавлены листья на позицию (576, 192).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (0, 256).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (128, 256).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (448, 256).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (576, 256).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (0, 320).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (128, 320).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (448, 320).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (576, 320).
-2024-12-15 00:20:10,029 - INFO - Добавлены листья на позицию (0, 384).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (128, 384).
-2024-12-15 00:20:10,029 - INFO - Добавлена неразрушимая стена на позицию (192, 384).
-2024-12-15 00:20:10,029 - INFO - Добавлен кирпич на позицию (256, 384).
-2024-12-15 00:20:10,029 - INFO - Добавлен кирпич на позицию (320, 384).
-2024-12-15 00:20:10,030 - INFO - Добавлена неразрушимая стена на позицию (384, 384).
-2024-12-15 00:20:10,030 - INFO - Добавлена неразрушимая стена на позицию (448, 384).
-2024-12-15 00:20:10,030 - INFO - Добавлены листья на позицию (576, 384).
-2024-12-15 00:20:10,030 - INFO - Добавлены листья на позицию (0, 448).
-2024-12-15 00:20:10,030 - INFO - Добавлены листья на позицию (576, 448).
-2024-12-15 00:20:10,030 - INFO - Добавлены листья на позицию (0, 512).
-2024-12-15 00:20:10,030 - INFO - Добавлена неразрушимая стена на позицию (192, 512).
-2024-12-15 00:20:10,030 - INFO - Добавлена неразрушимая стена на позицию (256, 512).
-2024-12-15 00:20:10,031 - INFO - Добавлена неразрушимая стена на позицию (320, 512).
-2024-12-15 00:20:10,031 - INFO - Добавлена неразрушимая стена на позицию (384, 512).
-2024-12-15 00:20:10,031 - INFO - Добавлены листья на позицию (576, 512).
-2024-12-15 00:20:10,031 - INFO - Добавлена неразрушимая стена на позицию (0, 576).
-2024-12-15 00:20:10,031 - INFO - Добавлена неразрушимая стена на позицию (64, 576).
-2024-12-15 00:20:10,031 - INFO - Добавлена неразрушимая стена на позицию (512, 576).
-2024-12-15 00:20:10,031 - INFO - Добавлена неразрушимая стена на позицию (576, 576).
-2024-12-15 00:20:10,031 - INFO - Процесс создания карты завершен.
-2024-12-15 00:20:10,950 - DEBUG - Moving bullet from position (312, 58)
-2024-12-15 00:20:10,962 - DEBUG - Moving bullet from position (312, 63)
-2024-12-15 00:20:11,119 - DEBUG - Key pressed: 1060
-2024-12-15 00:20:11,457 - DEBUG - Key pressed: 1042
-2024-12-15 00:20:11,558 - DEBUG - Key pressed: 1060
-2024-12-15 00:20:11,610 - DEBUG - Moving bullet from position (312, 58)
-2024-12-15 00:20:11,622 - DEBUG - Moving bullet from position (312, 63)
-2024-12-15 00:20:12,018 - DEBUG - Moving bullet from position (312, 58)
-2024-12-15 00:20:12,030 - DEBUG - Moving bullet from position (312, 63)
-2024-12-15 00:20:12,916 - DEBUG - Key pressed: 16777236
-2024-12-15 00:20:13,353 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:13,853 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:13,900 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:13,930 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:14,411 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:14,693 - DEBUG - Key pressed: 16777236
-2024-12-15 00:20:14,962 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:15,706 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:16,181 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:16,369 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:17,545 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,058 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,089 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,120 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,150 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,180 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,211 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,257 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,288 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,318 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,349 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,380 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,410 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,442 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:18,516 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:18,870 - DEBUG - Moving bullet from position (180, 63)
-2024-12-15 00:20:18,882 - DEBUG - Moving bullet from position (180, 68)
-2024-12-15 00:20:18,894 - DEBUG - Moving bullet from position (180, 73)
-2024-12-15 00:20:18,906 - DEBUG - Moving bullet from position (180, 78)
-2024-12-15 00:20:18,918 - DEBUG - Moving bullet from position (180, 83)
-2024-12-15 00:20:18,930 - DEBUG - Moving bullet from position (180, 88)
-2024-12-15 00:20:18,942 - DEBUG - Moving bullet from position (180, 93)
-2024-12-15 00:20:18,954 - DEBUG - Moving bullet from position (180, 98)
-2024-12-15 00:20:18,966 - DEBUG - Moving bullet from position (180, 103)
-2024-12-15 00:20:18,978 - DEBUG - Moving bullet from position (180, 108)
-2024-12-15 00:20:18,990 - DEBUG - Moving bullet from position (180, 113)
-2024-12-15 00:20:19,002 - DEBUG - Moving bullet from position (180, 118)
-2024-12-15 00:20:19,014 - DEBUG - Moving bullet from position (180, 123)
-2024-12-15 00:20:19,026 - DEBUG - Moving bullet from position (180, 128)
-2024-12-15 00:20:19,038 - DEBUG - Moving bullet from position (180, 133)
-2024-12-15 00:20:19,050 - DEBUG - Moving bullet from position (180, 138)
-2024-12-15 00:20:19,062 - DEBUG - Moving bullet from position (180, 143)
-2024-12-15 00:20:19,074 - DEBUG - Moving bullet from position (180, 148)
-2024-12-15 00:20:19,086 - DEBUG - Moving bullet from position (180, 153)
-2024-12-15 00:20:19,098 - DEBUG - Moving bullet from position (180, 158)
-2024-12-15 00:20:19,110 - DEBUG - Moving bullet from position (180, 163)
-2024-12-15 00:20:19,123 - DEBUG - Moving bullet from position (180, 168)
-2024-12-15 00:20:19,134 - DEBUG - Moving bullet from position (180, 173)
-2024-12-15 00:20:19,146 - DEBUG - Moving bullet from position (180, 178)
-2024-12-15 00:20:19,158 - DEBUG - Moving bullet from position (180, 183)
-2024-12-15 00:20:19,170 - DEBUG - Moving bullet from position (180, 188)
-2024-12-15 00:20:19,498 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:19,722 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:20,118 - DEBUG - Moving bullet from position (165, 63)
-2024-12-15 00:20:20,130 - DEBUG - Moving bullet from position (165, 68)
-2024-12-15 00:20:20,142 - DEBUG - Moving bullet from position (165, 73)
-2024-12-15 00:20:20,154 - DEBUG - Moving bullet from position (165, 78)
-2024-12-15 00:20:20,166 - DEBUG - Moving bullet from position (165, 83)
-2024-12-15 00:20:20,179 - DEBUG - Moving bullet from position (165, 88)
-2024-12-15 00:20:20,190 - DEBUG - Moving bullet from position (165, 93)
-2024-12-15 00:20:20,202 - DEBUG - Moving bullet from position (165, 98)
-2024-12-15 00:20:20,214 - DEBUG - Moving bullet from position (165, 103)
-2024-12-15 00:20:20,226 - DEBUG - Moving bullet from position (165, 108)
-2024-12-15 00:20:20,238 - DEBUG - Moving bullet from position (165, 113)
-2024-12-15 00:20:20,250 - DEBUG - Moving bullet from position (165, 118)
-2024-12-15 00:20:20,262 - DEBUG - Moving bullet from position (165, 123)
-2024-12-15 00:20:20,274 - DEBUG - Moving bullet from position (165, 128)
-2024-12-15 00:20:20,286 - DEBUG - Moving bullet from position (165, 133)
-2024-12-15 00:20:20,298 - DEBUG - Moving bullet from position (165, 138)
-2024-12-15 00:20:20,310 - DEBUG - Moving bullet from position (165, 143)
-2024-12-15 00:20:20,322 - DEBUG - Moving bullet from position (165, 148)
-2024-12-15 00:20:20,334 - DEBUG - Moving bullet from position (165, 153)
-2024-12-15 00:20:20,346 - DEBUG - Moving bullet from position (165, 158)
-2024-12-15 00:20:20,358 - DEBUG - Moving bullet from position (165, 163)
-2024-12-15 00:20:20,370 - DEBUG - Moving bullet from position (165, 168)
-2024-12-15 00:20:20,382 - DEBUG - Moving bullet from position (165, 173)
-2024-12-15 00:20:20,394 - DEBUG - Moving bullet from position (165, 178)
-2024-12-15 00:20:20,406 - DEBUG - Moving bullet from position (165, 183)
-2024-12-15 00:20:20,418 - DEBUG - Moving bullet from position (165, 188)
-2024-12-15 00:20:21,426 - DEBUG - Moving bullet from position (165, 63)
-2024-12-15 00:20:21,438 - DEBUG - Moving bullet from position (165, 68)
-2024-12-15 00:20:21,450 - DEBUG - Moving bullet from position (165, 73)
-2024-12-15 00:20:21,462 - DEBUG - Moving bullet from position (165, 78)
-2024-12-15 00:20:21,474 - DEBUG - Moving bullet from position (165, 83)
-2024-12-15 00:20:21,486 - DEBUG - Moving bullet from position (165, 88)
-2024-12-15 00:20:21,498 - DEBUG - Moving bullet from position (165, 93)
-2024-12-15 00:20:21,510 - DEBUG - Moving bullet from position (165, 98)
-2024-12-15 00:20:21,522 - DEBUG - Moving bullet from position (165, 103)
-2024-12-15 00:20:21,534 - DEBUG - Moving bullet from position (165, 108)
-2024-12-15 00:20:21,546 - DEBUG - Moving bullet from position (165, 113)
-2024-12-15 00:20:21,558 - DEBUG - Moving bullet from position (165, 118)
-2024-12-15 00:20:21,570 - DEBUG - Moving bullet from position (165, 123)
-2024-12-15 00:20:21,582 - DEBUG - Moving bullet from position (165, 128)
-2024-12-15 00:20:21,594 - DEBUG - Moving bullet from position (165, 133)
-2024-12-15 00:20:21,606 - DEBUG - Moving bullet from position (165, 138)
-2024-12-15 00:20:21,618 - DEBUG - Moving bullet from position (165, 143)
-2024-12-15 00:20:21,630 - DEBUG - Moving bullet from position (165, 148)
-2024-12-15 00:20:21,642 - DEBUG - Moving bullet from position (165, 153)
-2024-12-15 00:20:21,654 - DEBUG - Moving bullet from position (165, 158)
-2024-12-15 00:20:21,667 - DEBUG - Moving bullet from position (165, 163)
-2024-12-15 00:20:21,678 - DEBUG - Moving bullet from position (165, 168)
-2024-12-15 00:20:21,690 - DEBUG - Moving bullet from position (165, 173)
-2024-12-15 00:20:21,702 - DEBUG - Moving bullet from position (165, 178)
-2024-12-15 00:20:21,714 - DEBUG - Moving bullet from position (165, 183)
-2024-12-15 00:20:21,726 - DEBUG - Moving bullet from position (165, 188)
-2024-12-15 00:20:22,469 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:22,644 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:23,114 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:23,863 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:24,164 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:24,721 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:24,965 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:25,410 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:25,603 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:25,854 - DEBUG - Moving bullet from position (98, 167)
-2024-12-15 00:20:25,866 - DEBUG - Moving bullet from position (98, 172)
-2024-12-15 00:20:25,878 - DEBUG - Moving bullet from position (98, 177)
-2024-12-15 00:20:25,890 - DEBUG - Moving bullet from position (98, 182)
-2024-12-15 00:20:25,903 - DEBUG - Moving bullet from position (98, 187)
-2024-12-15 00:20:25,914 - DEBUG - Moving bullet from position (98, 192)
-2024-12-15 00:20:25,926 - DEBUG - Moving bullet from position (98, 197)
-2024-12-15 00:20:25,938 - DEBUG - Moving bullet from position (98, 202)
-2024-12-15 00:20:25,950 - DEBUG - Moving bullet from position (98, 207)
-2024-12-15 00:20:25,962 - DEBUG - Moving bullet from position (98, 212)
-2024-12-15 00:20:25,974 - DEBUG - Moving bullet from position (98, 217)
-2024-12-15 00:20:25,986 - DEBUG - Moving bullet from position (98, 222)
-2024-12-15 00:20:25,998 - DEBUG - Moving bullet from position (98, 227)
-2024-12-15 00:20:26,010 - DEBUG - Moving bullet from position (98, 232)
-2024-12-15 00:20:26,022 - DEBUG - Moving bullet from position (98, 237)
-2024-12-15 00:20:26,034 - DEBUG - Moving bullet from position (98, 242)
-2024-12-15 00:20:26,046 - DEBUG - Moving bullet from position (98, 247)
-2024-12-15 00:20:26,058 - DEBUG - Moving bullet from position (98, 252)
-2024-12-15 00:20:26,070 - DEBUG - Moving bullet from position (98, 257)
-2024-12-15 00:20:26,082 - DEBUG - Moving bullet from position (98, 262)
-2024-12-15 00:20:26,094 - DEBUG - Moving bullet from position (98, 267)
-2024-12-15 00:20:26,106 - DEBUG - Moving bullet from position (98, 272)
-2024-12-15 00:20:26,118 - DEBUG - Moving bullet from position (98, 277)
-2024-12-15 00:20:26,130 - DEBUG - Moving bullet from position (98, 282)
-2024-12-15 00:20:26,142 - DEBUG - Moving bullet from position (98, 287)
-2024-12-15 00:20:26,154 - DEBUG - Moving bullet from position (98, 292)
-2024-12-15 00:20:26,166 - DEBUG - Moving bullet from position (98, 297)
-2024-12-15 00:20:26,178 - DEBUG - Moving bullet from position (98, 302)
-2024-12-15 00:20:26,190 - DEBUG - Moving bullet from position (98, 307)
-2024-12-15 00:20:26,202 - DEBUG - Moving bullet from position (98, 312)
-2024-12-15 00:20:26,214 - DEBUG - Moving bullet from position (98, 317)
-2024-12-15 00:20:26,226 - DEBUG - Moving bullet from position (98, 322)
-2024-12-15 00:20:26,238 - DEBUG - Moving bullet from position (98, 327)
-2024-12-15 00:20:26,250 - DEBUG - Moving bullet from position (98, 332)
-2024-12-15 00:20:26,262 - DEBUG - Moving bullet from position (98, 337)
-2024-12-15 00:20:26,274 - DEBUG - Moving bullet from position (98, 342)
-2024-12-15 00:20:26,286 - DEBUG - Moving bullet from position (98, 347)
-2024-12-15 00:20:26,298 - DEBUG - Moving bullet from position (98, 352)
-2024-12-15 00:20:26,310 - DEBUG - Moving bullet from position (98, 357)
-2024-12-15 00:20:26,322 - DEBUG - Moving bullet from position (98, 362)
-2024-12-15 00:20:26,334 - DEBUG - Moving bullet from position (98, 367)
-2024-12-15 00:20:26,346 - DEBUG - Moving bullet from position (98, 372)
-2024-12-15 00:20:26,358 - DEBUG - Moving bullet from position (98, 377)
-2024-12-15 00:20:26,370 - DEBUG - Moving bullet from position (98, 382)
-2024-12-15 00:20:26,382 - DEBUG - Moving bullet from position (98, 387)
-2024-12-15 00:20:26,394 - DEBUG - Moving bullet from position (98, 392)
-2024-12-15 00:20:26,407 - DEBUG - Moving bullet from position (98, 397)
-2024-12-15 00:20:26,416 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:26,418 - DEBUG - Moving bullet from position (98, 402)
-2024-12-15 00:20:26,430 - DEBUG - Moving bullet from position (98, 407)
-2024-12-15 00:20:26,442 - DEBUG - Moving bullet from position (98, 412)
-2024-12-15 00:20:26,454 - DEBUG - Moving bullet from position (98, 417)
-2024-12-15 00:20:26,466 - DEBUG - Moving bullet from position (98, 422)
-2024-12-15 00:20:26,478 - DEBUG - Moving bullet from position (98, 427)
-2024-12-15 00:20:26,490 - DEBUG - Moving bullet from position (98, 432)
-2024-12-15 00:20:26,502 - DEBUG - Moving bullet from position (98, 437)
-2024-12-15 00:20:26,514 - DEBUG - Moving bullet from position (98, 442)
-2024-12-15 00:20:26,526 - DEBUG - Moving bullet from position (98, 447)
-2024-12-15 00:20:26,538 - DEBUG - Moving bullet from position (98, 452)
-2024-12-15 00:20:26,550 - DEBUG - Moving bullet from position (98, 457)
-2024-12-15 00:20:26,562 - DEBUG - Moving bullet from position (98, 462)
-2024-12-15 00:20:26,574 - DEBUG - Moving bullet from position (98, 467)
-2024-12-15 00:20:26,586 - DEBUG - Moving bullet from position (98, 472)
-2024-12-15 00:20:26,598 - DEBUG - Moving bullet from position (98, 477)
-2024-12-15 00:20:26,610 - DEBUG - Moving bullet from position (98, 482)
-2024-12-15 00:20:26,623 - DEBUG - Moving bullet from position (98, 487)
-2024-12-15 00:20:26,634 - DEBUG - Moving bullet from position (98, 492)
-2024-12-15 00:20:26,646 - DEBUG - Moving bullet from position (98, 497)
-2024-12-15 00:20:26,658 - DEBUG - Moving bullet from position (98, 502)
-2024-12-15 00:20:26,670 - DEBUG - Moving bullet from position (98, 507)
-2024-12-15 00:20:26,682 - DEBUG - Moving bullet from position (98, 512)
-2024-12-15 00:20:26,694 - DEBUG - Moving bullet from position (98, 517)
-2024-12-15 00:20:26,706 - DEBUG - Moving bullet from position (98, 522)
-2024-12-15 00:20:26,718 - DEBUG - Moving bullet from position (98, 527)
-2024-12-15 00:20:26,730 - DEBUG - Moving bullet from position (98, 532)
-2024-12-15 00:20:26,742 - DEBUG - Moving bullet from position (98, 537)
-2024-12-15 00:20:26,754 - DEBUG - Moving bullet from position (98, 542)
-2024-12-15 00:20:26,766 - DEBUG - Moving bullet from position (98, 547)
-2024-12-15 00:20:26,778 - DEBUG - Moving bullet from position (98, 552)
-2024-12-15 00:20:26,790 - DEBUG - Moving bullet from position (98, 557)
-2024-12-15 00:20:26,802 - DEBUG - Moving bullet from position (98, 562)
-2024-12-15 00:20:26,814 - DEBUG - Moving bullet from position (98, 567)
-2024-12-15 00:20:26,827 - DEBUG - Moving bullet from position (98, 572)
-2024-12-15 00:20:26,918 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:26,964 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:26,995 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,025 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,056 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,087 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,118 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,149 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,195 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,226 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,257 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,287 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,318 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:27,373 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:27,579 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,085 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,116 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,147 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,193 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,224 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,254 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,284 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,315 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,346 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,377 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,423 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,454 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,484 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,515 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,546 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,577 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,608 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,654 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,685 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,716 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,747 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,778 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,809 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,839 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,885 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,916 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,946 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:28,977 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,007 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,038 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,084 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,115 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,145 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,176 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,206 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,237 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,268 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,314 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,345 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,376 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,407 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,437 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,468 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,499 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,545 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,575 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,606 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,638 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,668 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,700 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,730 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,777 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,807 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,838 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,868 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,898 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,929 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:29,974 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,005 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,036 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,067 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,098 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,129 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,160 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,206 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,237 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,268 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,299 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,329 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,360 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,390 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,437 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,467 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,499 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,529 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,559 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,589 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,620 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,667 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,697 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,728 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,758 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,789 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,820 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,865 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,896 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,927 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,958 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:30,988 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:31,020 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:31,050 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:31,095 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:31,126 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:31,156 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:31,176 - DEBUG - Key pressed: 16777236
-2024-12-15 00:20:31,983 - DEBUG - Key pressed: 16777234
-2024-12-15 00:20:32,140 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:32,421 - DEBUG - Key pressed: 16777236
-2024-12-15 00:20:32,827 - DEBUG - Moving bullet from position (144, 483)
-2024-12-15 00:20:32,838 - DEBUG - Moving bullet from position (149, 483)
-2024-12-15 00:20:32,850 - DEBUG - Moving bullet from position (154, 483)
-2024-12-15 00:20:32,862 - DEBUG - Moving bullet from position (159, 483)
-2024-12-15 00:20:32,874 - DEBUG - Moving bullet from position (164, 483)
-2024-12-15 00:20:32,886 - DEBUG - Moving bullet from position (169, 483)
-2024-12-15 00:20:32,898 - DEBUG - Moving bullet from position (174, 483)
-2024-12-15 00:20:32,910 - DEBUG - Moving bullet from position (179, 483)
-2024-12-15 00:20:32,923 - DEBUG - Moving bullet from position (184, 483)
-2024-12-15 00:20:32,934 - DEBUG - Moving bullet from position (189, 483)
-2024-12-15 00:20:32,946 - DEBUG - Moving bullet from position (194, 483)
-2024-12-15 00:20:32,958 - DEBUG - Moving bullet from position (199, 483)
-2024-12-15 00:20:32,970 - DEBUG - Moving bullet from position (204, 483)
-2024-12-15 00:20:32,982 - DEBUG - Moving bullet from position (209, 483)
-2024-12-15 00:20:32,994 - DEBUG - Moving bullet from position (214, 483)
-2024-12-15 00:20:33,006 - DEBUG - Moving bullet from position (219, 483)
-2024-12-15 00:20:33,018 - DEBUG - Moving bullet from position (224, 483)
-2024-12-15 00:20:33,030 - DEBUG - Moving bullet from position (229, 483)
-2024-12-15 00:20:33,043 - DEBUG - Moving bullet from position (234, 483)
-2024-12-15 00:20:33,054 - DEBUG - Moving bullet from position (239, 483)
-2024-12-15 00:20:33,066 - DEBUG - Moving bullet from position (244, 483)
-2024-12-15 00:20:33,078 - DEBUG - Moving bullet from position (249, 483)
-2024-12-15 00:20:33,085 - DEBUG - Key pressed: 16777236
-2024-12-15 00:20:33,090 - DEBUG - Moving bullet from position (254, 483)
-2024-12-15 00:20:33,103 - DEBUG - Moving bullet from position (259, 483)
-2024-12-15 00:20:33,114 - DEBUG - Moving bullet from position (264, 483)
-2024-12-15 00:20:33,126 - DEBUG - Moving bullet from position (269, 483)
-2024-12-15 00:20:33,138 - DEBUG - Moving bullet from position (274, 483)
-2024-12-15 00:20:33,150 - DEBUG - Moving bullet from position (279, 483)
-2024-12-15 00:20:33,162 - DEBUG - Moving bullet from position (284, 483)
-2024-12-15 00:20:33,174 - DEBUG - Moving bullet from position (289, 483)
-2024-12-15 00:20:33,186 - DEBUG - Moving bullet from position (294, 483)
-2024-12-15 00:20:33,198 - DEBUG - Moving bullet from position (299, 483)
-2024-12-15 00:20:33,210 - DEBUG - Moving bullet from position (304, 483)
-2024-12-15 00:20:33,222 - DEBUG - Moving bullet from position (309, 483)
-2024-12-15 00:20:33,234 - DEBUG - Moving bullet from position (314, 483)
-2024-12-15 00:20:33,246 - DEBUG - Moving bullet from position (319, 483)
-2024-12-15 00:20:33,258 - DEBUG - Moving bullet from position (324, 483)
-2024-12-15 00:20:33,270 - DEBUG - Moving bullet from position (329, 483)
-2024-12-15 00:20:33,282 - DEBUG - Moving bullet from position (334, 483)
-2024-12-15 00:20:33,294 - DEBUG - Moving bullet from position (339, 483)
-2024-12-15 00:20:33,306 - DEBUG - Moving bullet from position (344, 483)
-2024-12-15 00:20:33,318 - DEBUG - Moving bullet from position (349, 483)
-2024-12-15 00:20:33,330 - DEBUG - Moving bullet from position (354, 483)
-2024-12-15 00:20:33,342 - DEBUG - Moving bullet from position (359, 483)
-2024-12-15 00:20:33,354 - DEBUG - Moving bullet from position (364, 483)
-2024-12-15 00:20:33,366 - DEBUG - Moving bullet from position (369, 483)
-2024-12-15 00:20:33,378 - DEBUG - Moving bullet from position (374, 483)
-2024-12-15 00:20:33,390 - DEBUG - Moving bullet from position (379, 483)
-2024-12-15 00:20:33,402 - DEBUG - Moving bullet from position (384, 483)
-2024-12-15 00:20:33,414 - DEBUG - Moving bullet from position (389, 483)
-2024-12-15 00:20:33,426 - DEBUG - Moving bullet from position (394, 483)
-2024-12-15 00:20:33,438 - DEBUG - Moving bullet from position (399, 483)
-2024-12-15 00:20:33,450 - DEBUG - Moving bullet from position (404, 483)
-2024-12-15 00:20:33,462 - DEBUG - Moving bullet from position (409, 483)
-2024-12-15 00:20:33,474 - DEBUG - Moving bullet from position (414, 483)
-2024-12-15 00:20:33,486 - DEBUG - Moving bullet from position (419, 483)
-2024-12-15 00:20:33,498 - DEBUG - Moving bullet from position (424, 483)
-2024-12-15 00:20:33,510 - DEBUG - Moving bullet from position (429, 483)
-2024-12-15 00:20:33,522 - DEBUG - Moving bullet from position (434, 483)
-2024-12-15 00:20:33,534 - DEBUG - Moving bullet from position (439, 483)
-2024-12-15 00:20:33,546 - DEBUG - Moving bullet from position (444, 483)
-2024-12-15 00:20:33,558 - DEBUG - Moving bullet from position (449, 483)
-2024-12-15 00:20:33,570 - DEBUG - Moving bullet from position (454, 483)
-2024-12-15 00:20:33,582 - DEBUG - Moving bullet from position (459, 483)
-2024-12-15 00:20:33,594 - DEBUG - Moving bullet from position (464, 483)
-2024-12-15 00:20:33,606 - DEBUG - Moving bullet from position (469, 483)
-2024-12-15 00:20:33,618 - DEBUG - Moving bullet from position (474, 483)
-2024-12-15 00:20:33,630 - DEBUG - Moving bullet from position (479, 483)
-2024-12-15 00:20:33,642 - DEBUG - Moving bullet from position (484, 483)
-2024-12-15 00:20:33,654 - DEBUG - Moving bullet from position (489, 483)
-2024-12-15 00:20:33,666 - DEBUG - Moving bullet from position (494, 483)
-2024-12-15 00:20:33,678 - DEBUG - Moving bullet from position (499, 483)
-2024-12-15 00:20:33,685 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:33,690 - DEBUG - Moving bullet from position (504, 483)
-2024-12-15 00:20:33,702 - DEBUG - Moving bullet from position (509, 483)
-2024-12-15 00:20:33,714 - DEBUG - Moving bullet from position (514, 483)
-2024-12-15 00:20:33,726 - DEBUG - Moving bullet from position (519, 483)
-2024-12-15 00:20:33,738 - DEBUG - Moving bullet from position (524, 483)
-2024-12-15 00:20:33,750 - DEBUG - Moving bullet from position (529, 483)
-2024-12-15 00:20:33,762 - DEBUG - Moving bullet from position (534, 483)
-2024-12-15 00:20:33,774 - DEBUG - Moving bullet from position (539, 483)
-2024-12-15 00:20:33,786 - DEBUG - Moving bullet from position (544, 483)
-2024-12-15 00:20:33,798 - DEBUG - Moving bullet from position (549, 483)
-2024-12-15 00:20:33,810 - DEBUG - Moving bullet from position (554, 483)
-2024-12-15 00:20:33,822 - DEBUG - Moving bullet from position (559, 483)
-2024-12-15 00:20:33,834 - DEBUG - Moving bullet from position (564, 483)
-2024-12-15 00:20:33,846 - DEBUG - Moving bullet from position (569, 483)
-2024-12-15 00:20:33,858 - DEBUG - Moving bullet from position (574, 483)
-2024-12-15 00:20:33,870 - DEBUG - Moving bullet from position (579, 483)
-2024-12-15 00:20:33,882 - DEBUG - Moving bullet from position (584, 483)
-2024-12-15 00:20:33,894 - DEBUG - Moving bullet from position (589, 483)
-2024-12-15 00:20:33,906 - DEBUG - Moving bullet from position (594, 483)
-2024-12-15 00:20:33,918 - DEBUG - Moving bullet from position (599, 483)
-2024-12-15 00:20:33,930 - DEBUG - Moving bullet from position (604, 483)
-2024-12-15 00:20:33,942 - DEBUG - Moving bullet from position (609, 483)
-2024-12-15 00:20:33,954 - DEBUG - Moving bullet from position (614, 483)
-2024-12-15 00:20:33,966 - DEBUG - Moving bullet from position (619, 483)
-2024-12-15 00:20:33,978 - DEBUG - Moving bullet from position (624, 483)
-2024-12-15 00:20:33,990 - DEBUG - Moving bullet from position (629, 483)
-2024-12-15 00:20:34,002 - DEBUG - Moving bullet from position (634, 483)
-2024-12-15 00:20:34,014 - DEBUG - Moving bullet from position (639, 483)
-2024-12-15 00:20:34,136 - DEBUG - Key pressed: 16777236
-2024-12-15 00:20:34,323 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:34,827 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:34,857 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:34,903 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:34,933 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:34,964 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:34,996 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:35,026 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:35,058 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:35,088 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:35,193 - DEBUG - Key pressed: 16777236
-2024-12-15 00:20:35,368 - DEBUG - Key pressed: 16777237
-2024-12-15 00:20:35,593 - DEBUG - Key pressed: 16777236
-2024-12-15 00:20:35,850 - DEBUG - Moving bullet from position (201, 604)
-2024-12-15 00:20:35,862 - DEBUG - Moving bullet from position (206, 604)
-2024-12-15 00:20:35,874 - DEBUG - Moving bullet from position (211, 604)
-2024-12-15 00:20:35,886 - DEBUG - Moving bullet from position (216, 604)
-2024-12-15 00:20:35,898 - DEBUG - Moving bullet from position (221, 604)
-2024-12-15 00:20:35,910 - DEBUG - Moving bullet from position (226, 604)
-2024-12-15 00:20:35,922 - DEBUG - Moving bullet from position (231, 604)
-2024-12-15 00:20:35,934 - DEBUG - Moving bullet from position (236, 604)
-2024-12-15 00:20:35,946 - DEBUG - Moving bullet from position (241, 604)
-2024-12-15 00:20:35,958 - DEBUG - Moving bullet from position (246, 604)
-2024-12-15 00:20:35,970 - DEBUG - Moving bullet from position (251, 604)
-2024-12-15 00:20:35,982 - DEBUG - Moving bullet from position (256, 604)
-2024-12-15 00:20:35,994 - DEBUG - Moving bullet from position (261, 604)
-2024-12-15 00:20:36,006 - DEBUG - Moving bullet from position (266, 604)
-2024-12-15 00:20:36,018 - DEBUG - Moving bullet from position (271, 604)
-2024-12-15 00:20:36,030 - DEBUG - Moving bullet from position (276, 604)
-2024-12-15 00:20:36,042 - DEBUG - Moving bullet from position (281, 604)
-2024-12-15 00:20:36,054 - DEBUG - Moving bullet from position (286, 604)
-2024-12-15 00:20:36,066 - DEBUG - Moving bullet from position (291, 604)
-2024-12-15 00:20:36,066 - DEBUG - Bullet hit at position (296, 604)
+2024-12-15 00:24:04,924 - INFO - Tанк 1 создан. Позиция: (296, 590)
+2024-12-15 00:24:04,924 - INFO - Tанк 2 создан. Позиция: (296, 10)
+2024-12-15 00:24:04,924 - INFO - Начинается загрузка карты из файла 'assets/map.txt'.
+2024-12-15 00:24:04,924 - INFO - Карта успешно загружена из файла.
+2024-12-15 00:24:04,925 - INFO - Добавлена неразрушимая стена на позицию (0, 0).
+2024-12-15 00:24:04,925 - INFO - Добавлена неразрушимая стена на позицию (64, 0).
+2024-12-15 00:24:04,925 - INFO - Добавлена неразрушимая стена на позицию (512, 0).
+2024-12-15 00:24:04,925 - INFO - Добавлена неразрушимая стена на позицию (576, 0).
+2024-12-15 00:24:04,925 - INFO - Добавлены листья на позицию (0, 64).
+2024-12-15 00:24:04,925 - INFO - Добавлена неразрушимая стена на позицию (192, 64).
+2024-12-15 00:24:04,926 - INFO - Добавлена неразрушимая стена на позицию (256, 64).
+2024-12-15 00:24:04,926 - INFO - Добавлена неразрушимая стена на позицию (320, 64).
+2024-12-15 00:24:04,926 - INFO - Добавлена неразрушимая стена на позицию (384, 64).
+2024-12-15 00:24:04,926 - INFO - Добавлены листья на позицию (576, 64).
+2024-12-15 00:24:04,926 - INFO - Добавлены листья на позицию (0, 128).
+2024-12-15 00:24:04,926 - INFO - Добавлены листья на позицию (576, 128).
+2024-12-15 00:24:04,926 - INFO - Добавлены листья на позицию (0, 192).
+2024-12-15 00:24:04,926 - INFO - Добавлена неразрушимая стена на позицию (128, 192).
+2024-12-15 00:24:04,926 - INFO - Добавлена неразрушимая стена на позицию (192, 192).
+2024-12-15 00:24:04,927 - INFO - Добавлен кирпич на позицию (256, 192).
+2024-12-15 00:24:04,927 - INFO - Добавлен кирпич на позицию (320, 192).
+2024-12-15 00:24:04,927 - INFO - Добавлена неразрушимая стена на позицию (384, 192).
+2024-12-15 00:24:04,927 - INFO - Добавлена неразрушимая стена на позицию (448, 192).
+2024-12-15 00:24:04,927 - INFO - Добавлены листья на позицию (576, 192).
+2024-12-15 00:24:04,927 - INFO - Добавлена неразрушимая стена на позицию (0, 256).
+2024-12-15 00:24:04,927 - INFO - Добавлена неразрушимая стена на позицию (128, 256).
+2024-12-15 00:24:04,927 - INFO - Добавлена неразрушимая стена на позицию (448, 256).
+2024-12-15 00:24:04,927 - INFO - Добавлена неразрушимая стена на позицию (576, 256).
+2024-12-15 00:24:04,927 - INFO - Добавлена неразрушимая стена на позицию (0, 320).
+2024-12-15 00:24:04,927 - INFO - Добавлена неразрушимая стена на позицию (128, 320).
+2024-12-15 00:24:04,928 - INFO - Добавлена неразрушимая стена на позицию (448, 320).
+2024-12-15 00:24:04,928 - INFO - Добавлена неразрушимая стена на позицию (576, 320).
+2024-12-15 00:24:04,928 - INFO - Добавлены листья на позицию (0, 384).
+2024-12-15 00:24:04,928 - INFO - Добавлена неразрушимая стена на позицию (128, 384).
+2024-12-15 00:24:04,928 - INFO - Добавлена неразрушимая стена на позицию (192, 384).
+2024-12-15 00:24:04,928 - INFO - Добавлен кирпич на позицию (256, 384).
+2024-12-15 00:24:04,928 - INFO - Добавлен кирпич на позицию (320, 384).
+2024-12-15 00:24:04,928 - INFO - Добавлена неразрушимая стена на позицию (384, 384).
+2024-12-15 00:24:04,928 - INFO - Добавлена неразрушимая стена на позицию (448, 384).
+2024-12-15 00:24:04,928 - INFO - Добавлены листья на позицию (576, 384).
+2024-12-15 00:24:04,928 - INFO - Добавлены листья на позицию (0, 448).
+2024-12-15 00:24:04,928 - INFO - Добавлены листья на позицию (576, 448).
+2024-12-15 00:24:04,928 - INFO - Добавлены листья на позицию (0, 512).
+2024-12-15 00:24:04,929 - INFO - Добавлена неразрушимая стена на позицию (192, 512).
+2024-12-15 00:24:04,929 - INFO - Добавлена неразрушимая стена на позицию (256, 512).
+2024-12-15 00:24:04,929 - INFO - Добавлена неразрушимая стена на позицию (320, 512).
+2024-12-15 00:24:04,929 - INFO - Добавлена неразрушимая стена на позицию (384, 512).
+2024-12-15 00:24:04,929 - INFO - Добавлены листья на позицию (576, 512).
+2024-12-15 00:24:04,929 - INFO - Добавлена неразрушимая стена на позицию (0, 576).
+2024-12-15 00:24:04,930 - INFO - Добавлена неразрушимая стена на позицию (64, 576).
+2024-12-15 00:24:04,930 - INFO - Добавлена неразрушимая стена на позицию (512, 576).
+2024-12-15 00:24:04,930 - INFO - Добавлена неразрушимая стена на позицию (576, 576).
+2024-12-15 00:24:04,930 - INFO - Процесс создания карты завершен.
+2024-12-15 00:24:05,632 - DEBUG - Moving bullet from position (312, 58)
+2024-12-15 00:24:05,644 - DEBUG - Moving bullet from position (312, 63)
+2024-12-15 00:24:06,369 - DEBUG - Key pressed: 65
+2024-12-15 00:24:06,881 - DEBUG - Key pressed: 65
+2024-12-15 00:24:07,125 - DEBUG - Key pressed: 32
+2024-12-15 00:24:07,125 - DEBUG - Firing bullet.
+2024-12-15 00:24:07,132 - DEBUG - Moving bullet from position (251, 606)
+2024-12-15 00:24:07,144 - DEBUG - Moving bullet from position (246, 606)
+2024-12-15 00:24:07,156 - DEBUG - Moving bullet from position (241, 606)
+2024-12-15 00:24:07,168 - DEBUG - Moving bullet from position (236, 606)
+2024-12-15 00:24:07,180 - DEBUG - Moving bullet from position (231, 606)
+2024-12-15 00:24:07,192 - DEBUG - Moving bullet from position (226, 606)
+2024-12-15 00:24:07,204 - DEBUG - Moving bullet from position (221, 606)
+2024-12-15 00:24:07,216 - DEBUG - Moving bullet from position (216, 606)
+2024-12-15 00:24:07,228 - DEBUG - Moving bullet from position (211, 606)
+2024-12-15 00:24:07,240 - DEBUG - Moving bullet from position (206, 606)
+2024-12-15 00:24:07,252 - DEBUG - Moving bullet from position (201, 606)
+2024-12-15 00:24:07,264 - DEBUG - Moving bullet from position (196, 606)
+2024-12-15 00:24:07,276 - DEBUG - Moving bullet from position (191, 606)
+2024-12-15 00:24:07,288 - DEBUG - Moving bullet from position (186, 606)
+2024-12-15 00:24:07,300 - DEBUG - Moving bullet from position (181, 606)
+2024-12-15 00:24:07,313 - DEBUG - Moving bullet from position (176, 606)
+2024-12-15 00:24:07,324 - DEBUG - Moving bullet from position (171, 606)
+2024-12-15 00:24:07,336 - DEBUG - Moving bullet from position (166, 606)
+2024-12-15 00:24:07,348 - DEBUG - Moving bullet from position (161, 606)
+2024-12-15 00:24:07,360 - DEBUG - Moving bullet from position (156, 606)
+2024-12-15 00:24:07,372 - DEBUG - Moving bullet from position (151, 606)
+2024-12-15 00:24:07,384 - DEBUG - Moving bullet from position (146, 606)
+2024-12-15 00:24:07,396 - DEBUG - Moving bullet from position (141, 606)
+2024-12-15 00:24:07,408 - DEBUG - Moving bullet from position (136, 606)
+2024-12-15 00:24:07,420 - DEBUG - Moving bullet from position (131, 606)
+2024-12-15 00:24:07,582 - DEBUG - Key pressed: 32
+2024-12-15 00:24:07,582 - DEBUG - Firing bullet.
+2024-12-15 00:24:07,588 - DEBUG - Moving bullet from position (213, 606)
+2024-12-15 00:24:07,600 - DEBUG - Moving bullet from position (208, 606)
+2024-12-15 00:24:07,612 - DEBUG - Moving bullet from position (203, 606)
+2024-12-15 00:24:07,624 - DEBUG - Moving bullet from position (198, 606)
+2024-12-15 00:24:07,636 - DEBUG - Moving bullet from position (193, 606)
+2024-12-15 00:24:07,648 - DEBUG - Moving bullet from position (188, 606)
+2024-12-15 00:24:07,660 - DEBUG - Moving bullet from position (183, 606)
+2024-12-15 00:24:07,672 - DEBUG - Moving bullet from position (178, 606)
+2024-12-15 00:24:07,684 - DEBUG - Moving bullet from position (173, 606)
+2024-12-15 00:24:07,696 - DEBUG - Moving bullet from position (168, 606)
+2024-12-15 00:24:07,708 - DEBUG - Moving bullet from position (163, 606)
+2024-12-15 00:24:07,720 - DEBUG - Moving bullet from position (158, 606)
+2024-12-15 00:24:07,732 - DEBUG - Moving bullet from position (153, 606)
+2024-12-15 00:24:07,744 - DEBUG - Moving bullet from position (148, 606)
+2024-12-15 00:24:07,756 - DEBUG - Moving bullet from position (143, 606)
+2024-12-15 00:24:07,768 - DEBUG - Moving bullet from position (138, 606)
+2024-12-15 00:24:07,780 - DEBUG - Moving bullet from position (133, 606)
+2024-12-15 00:24:08,883 - DEBUG - Key pressed: 65
+2024-12-15 00:24:09,064 - DEBUG - Key pressed: 87
+2024-12-15 00:24:09,321 - DEBUG - Key pressed: 65
+2024-12-15 00:24:09,940 - DEBUG - Key pressed: 87
+2024-12-15 00:24:10,385 - DEBUG - Key pressed: 65
+2024-12-15 00:24:10,853 - DEBUG - Key pressed: 87
+2024-12-15 00:24:11,316 - DEBUG - Key pressed: 65
+2024-12-15 00:24:11,560 - DEBUG - Key pressed: 32
+2024-12-15 00:24:11,561 - DEBUG - Firing bullet.
+2024-12-15 00:24:11,572 - DEBUG - Moving bullet from position (107, 518)
+2024-12-15 00:24:11,584 - DEBUG - Moving bullet from position (102, 518)
+2024-12-15 00:24:11,596 - DEBUG - Moving bullet from position (97, 518)
+2024-12-15 00:24:11,608 - DEBUG - Moving bullet from position (92, 518)
+2024-12-15 00:24:11,620 - DEBUG - Moving bullet from position (87, 518)
+2024-12-15 00:24:11,632 - DEBUG - Moving bullet from position (82, 518)
+2024-12-15 00:24:11,644 - DEBUG - Moving bullet from position (77, 518)
+2024-12-15 00:24:11,656 - DEBUG - Moving bullet from position (72, 518)
+2024-12-15 00:24:11,668 - DEBUG - Moving bullet from position (67, 518)
+2024-12-15 00:24:11,680 - DEBUG - Moving bullet from position (62, 518)
+2024-12-15 00:24:11,692 - DEBUG - Moving bullet from position (57, 518)
+2024-12-15 00:24:11,704 - DEBUG - Moving bullet from position (52, 518)
+2024-12-15 00:24:11,716 - DEBUG - Moving bullet from position (47, 518)
+2024-12-15 00:24:11,728 - DEBUG - Moving bullet from position (42, 518)
+2024-12-15 00:24:11,740 - DEBUG - Moving bullet from position (37, 518)
+2024-12-15 00:24:11,752 - DEBUG - Moving bullet from position (32, 518)
+2024-12-15 00:24:11,754 - DEBUG - Key pressed: 65
+2024-12-15 00:24:11,764 - DEBUG - Moving bullet from position (27, 518)
+2024-12-15 00:24:11,776 - DEBUG - Moving bullet from position (22, 518)
+2024-12-15 00:24:11,788 - DEBUG - Moving bullet from position (17, 518)
+2024-12-15 00:24:11,800 - DEBUG - Moving bullet from position (12, 518)
+2024-12-15 00:24:11,812 - DEBUG - Moving bullet from position (7, 518)
+2024-12-15 00:24:11,824 - DEBUG - Moving bullet from position (2, 518)
+2024-12-15 00:24:11,836 - DEBUG - Moving bullet from position (-3, 518)
+2024-12-15 00:24:11,848 - DEBUG - Moving bullet from position (-8, 518)
+2024-12-15 00:24:11,860 - DEBUG - Moving bullet from position (-13, 518)
+2024-12-15 00:24:12,254 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,300 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,331 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,362 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,392 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,423 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,454 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,485 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,531 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,563 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,593 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,624 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,654 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,685 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,716 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,763 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,793 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,823 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,854 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,884 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,915 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,960 - DEBUG - Key pressed: 65
+2024-12-15 00:24:12,992 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,022 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,052 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,083 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,113 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,159 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,190 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,221 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,252 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,282 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,312 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,344 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,390 - DEBUG - Key pressed: 65
+2024-12-15 00:24:13,487 - DEBUG - Key pressed: 68
+2024-12-15 00:24:13,981 - DEBUG - Key pressed: 87
+2024-12-15 00:24:14,751 - DEBUG - Key pressed: 68
+2024-12-15 00:24:14,795 - DEBUG - Key pressed: 87
+2024-12-15 00:24:14,995 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,542 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,572 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,602 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,634 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,664 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,710 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,742 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,772 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,804 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,835 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,865 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,897 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,943 - DEBUG - Key pressed: 68
+2024-12-15 00:24:15,974 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,004 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,034 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,065 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,095 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,141 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,172 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,202 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,233 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,263 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,294 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,325 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,371 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,402 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,432 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,463 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,493 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,525 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,556 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,602 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,632 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,663 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,694 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,725 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,756 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,801 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,832 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,864 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,895 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,926 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,956 - DEBUG - Key pressed: 68
+2024-12-15 00:24:16,987 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,018 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,064 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,094 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,125 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,156 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,186 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,217 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,263 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,293 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,324 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,355 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,385 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,416 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,446 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,492 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,523 - DEBUG - Key pressed: 68
+2024-12-15 00:24:17,547 - DEBUG - Key pressed: 87
+2024-12-15 00:24:17,635 - DEBUG - Key pressed: 32
+2024-12-15 00:24:17,636 - DEBUG - Firing bullet.
+2024-12-15 00:24:17,644 - DEBUG - Moving bullet from position (273, 452)
+2024-12-15 00:24:17,985 - DEBUG - Key pressed: 32
+2024-12-15 00:24:17,986 - DEBUG - Firing bullet.
+2024-12-15 00:24:17,992 - DEBUG - Moving bullet from position (273, 423)
+2024-12-15 00:24:18,004 - DEBUG - Moving bullet from position (273, 418)
+2024-12-15 00:24:18,016 - DEBUG - Moving bullet from position (273, 413)
+2024-12-15 00:24:18,028 - DEBUG - Moving bullet from position (273, 408)
+2024-12-15 00:24:18,040 - DEBUG - Moving bullet from position (273, 403)
+2024-12-15 00:24:18,052 - DEBUG - Moving bullet from position (273, 398)
+2024-12-15 00:24:18,064 - DEBUG - Moving bullet from position (273, 393)
+2024-12-15 00:24:18,076 - DEBUG - Moving bullet from position (273, 388)
+2024-12-15 00:24:18,088 - DEBUG - Moving bullet from position (273, 383)
+2024-12-15 00:24:18,100 - DEBUG - Moving bullet from position (273, 378)
+2024-12-15 00:24:18,112 - DEBUG - Moving bullet from position (273, 373)
+2024-12-15 00:24:18,124 - DEBUG - Moving bullet from position (273, 368)
+2024-12-15 00:24:18,136 - DEBUG - Moving bullet from position (273, 363)
+2024-12-15 00:24:18,148 - DEBUG - Moving bullet from position (273, 358)
+2024-12-15 00:24:18,160 - DEBUG - Moving bullet from position (273, 353)
+2024-12-15 00:24:18,172 - DEBUG - Moving bullet from position (273, 348)
+2024-12-15 00:24:18,184 - DEBUG - Moving bullet from position (273, 343)
+2024-12-15 00:24:18,196 - DEBUG - Moving bullet from position (273, 338)
+2024-12-15 00:24:18,208 - DEBUG - Moving bullet from position (273, 333)
+2024-12-15 00:24:18,220 - DEBUG - Moving bullet from position (273, 328)
+2024-12-15 00:24:18,232 - DEBUG - Moving bullet from position (273, 323)
+2024-12-15 00:24:18,244 - DEBUG - Moving bullet from position (273, 318)
+2024-12-15 00:24:18,256 - DEBUG - Moving bullet from position (273, 313)
+2024-12-15 00:24:18,268 - DEBUG - Moving bullet from position (273, 308)
+2024-12-15 00:24:18,280 - DEBUG - Moving bullet from position (273, 303)
+2024-12-15 00:24:18,292 - DEBUG - Moving bullet from position (273, 298)
+2024-12-15 00:24:18,305 - DEBUG - Moving bullet from position (273, 293)
+2024-12-15 00:24:18,316 - DEBUG - Moving bullet from position (273, 288)
+2024-12-15 00:24:18,328 - DEBUG - Moving bullet from position (273, 283)
+2024-12-15 00:24:18,340 - DEBUG - Moving bullet from position (273, 278)
+2024-12-15 00:24:18,352 - DEBUG - Moving bullet from position (273, 273)
+2024-12-15 00:24:18,364 - DEBUG - Moving bullet from position (273, 268)
+2024-12-15 00:24:18,376 - DEBUG - Moving bullet from position (273, 263)
+2024-12-15 00:24:18,388 - DEBUG - Moving bullet from position (273, 258)
+2024-12-15 00:24:21,263 - DEBUG - Key pressed: 65
+2024-12-15 00:24:21,582 - DEBUG - Key pressed: 87
+2024-12-15 00:24:21,795 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,349 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,378 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,425 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,456 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,486 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,517 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,547 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,578 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,623 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,654 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,686 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,717 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,747 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,779 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,809 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,841 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,886 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,917 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,948 - DEBUG - Key pressed: 65
+2024-12-15 00:24:22,979 - DEBUG - Key pressed: 65
+2024-12-15 00:24:23,009 - DEBUG - Key pressed: 87
+2024-12-15 00:24:23,340 - DEBUG - Key pressed: 65
+2024-12-15 00:24:23,534 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,131 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,162 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,208 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,239 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,269 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,301 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,331 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,363 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,394 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,440 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,471 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,502 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,532 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,563 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,593 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,624 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,669 - DEBUG - Key pressed: 87
+2024-12-15 00:24:24,698 - DEBUG - Key pressed: 68
+2024-12-15 00:24:24,960 - DEBUG - Key pressed: 32
+2024-12-15 00:24:24,961 - DEBUG - Firing bullet.
+2024-12-15 00:24:24,964 - DEBUG - Moving bullet from position (190, 48)
+2024-12-15 00:24:24,976 - DEBUG - Moving bullet from position (195, 48)
+2024-12-15 00:24:24,988 - DEBUG - Moving bullet from position (200, 48)
+2024-12-15 00:24:25,000 - DEBUG - Moving bullet from position (205, 48)
+2024-12-15 00:24:25,012 - DEBUG - Moving bullet from position (210, 48)
+2024-12-15 00:24:25,024 - DEBUG - Moving bullet from position (215, 48)
+2024-12-15 00:24:25,036 - DEBUG - Moving bullet from position (220, 48)
+2024-12-15 00:24:25,048 - DEBUG - Moving bullet from position (225, 48)
+2024-12-15 00:24:25,060 - DEBUG - Moving bullet from position (230, 48)
+2024-12-15 00:24:25,072 - DEBUG - Moving bullet from position (235, 48)
+2024-12-15 00:24:25,084 - DEBUG - Moving bullet from position (240, 48)
+2024-12-15 00:24:25,096 - DEBUG - Moving bullet from position (245, 48)
+2024-12-15 00:24:25,108 - DEBUG - Moving bullet from position (250, 48)
+2024-12-15 00:24:25,120 - DEBUG - Moving bullet from position (255, 48)
+2024-12-15 00:24:25,132 - DEBUG - Moving bullet from position (260, 48)
+2024-12-15 00:24:25,144 - DEBUG - Moving bullet from position (265, 48)
+2024-12-15 00:24:25,156 - DEBUG - Moving bullet from position (270, 48)
+2024-12-15 00:24:25,168 - DEBUG - Moving bullet from position (275, 48)
+2024-12-15 00:24:25,180 - DEBUG - Moving bullet from position (280, 48)
+2024-12-15 00:24:25,192 - DEBUG - Moving bullet from position (285, 48)
+2024-12-15 00:24:25,204 - DEBUG - Moving bullet from position (290, 48)
+2024-12-15 00:24:25,216 - DEBUG - Moving bullet from position (295, 48)
+2024-12-15 00:24:25,216 - DEBUG - Bullet hit at position (300, 48)
