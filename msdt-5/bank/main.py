@@ -1,19 +1,8 @@
 
 import datetime
-import itertools
-import json
-import logging
-import os
 import random
-import socket
-import sys
-import time
-import urllib
-
 import numpy as np
 import pandas as pd
-import requests
-import scipy
 from collections import Counter, deque
 
 

@@ -1,4 +1,6 @@
 import pytest
+import numpy as np
+import pandas as pd
 from unittest.mock import MagicMock
 from datetime import datetime
 from main import BankAccount, Transaction, LoanAccount
